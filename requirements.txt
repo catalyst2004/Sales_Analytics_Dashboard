@@ -1,0 +1,43 @@
+# Data Analysis
+pandas
+numpy
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+xgboost
+joblib
+
+# Backend
+fastapi
+uvicorn
+pydantic
+
+# Database
+sqlalchemy
+psycopg2-binary
+supabase
+
+# API
+requests
+
+# Jupyter
+jupyter
+notebook
+ipykernel
+
+# Environment Variables
+python-dotenv
+
+# CORS
+fastapi[standard]
+
+# Data Processing
+openpyxl
+
+# Utilities
+python-multipart
